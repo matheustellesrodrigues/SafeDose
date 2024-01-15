@@ -1,0 +1,31 @@
+nav {
+  background-color: #081c3b;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+    
+}
+  
+ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+  
+li {
+  margin-right: 100px;
+  font-size: large;
+
+    
+}
+  
+a {
+  text-decoration: none;
+  color: rgb(10, 23, 204);
+  font-weight: bold;
+}
+  
+a:hover {
+  color: #0905ff; 
+}
+  

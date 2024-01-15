@@ -1,0 +1,21 @@
+#rodape {
+    background-color: #081c3b;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  section {
+    display: flex;
+    justify-content: center;
+  }
+  
+  section h3 {
+    margin-right: 3em;
+  }
+  
+  footer {
+    margin-bottom: 20px; 
+  }
+  
